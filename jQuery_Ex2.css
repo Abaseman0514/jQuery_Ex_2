@@ -1,0 +1,39 @@
+body {
+	width: 100%;
+	padding: 3 rem;
+	margin: 3 rem;
+}
+
+header {
+	width: 90%;
+	padding: 3rem;
+}
+
+button {
+	width: 100%;
+}
+
+.menu {
+	width: 35px;
+	height: 5px;
+	background-color: black;
+	margin: 6px 12px;
+	}
+
+#hamburger {
+	float: right;
+}
+
+.links {
+	float: right;
+	text-decoration: none;
+	padding-right: 3rem;
+	list-style-type: none;
+	}
+		
+	section {
+		margin-top: 5rem;
+		font-size: 40px;
+		text-align: center;
+	}
+
